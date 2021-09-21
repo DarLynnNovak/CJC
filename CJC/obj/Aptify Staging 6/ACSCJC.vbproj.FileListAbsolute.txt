@@ -1,0 +1,10 @@
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACSCJC.vbprojAssemblyReference.cache
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACS.Resources.resources
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACSCJC.vbproj.GenerateResource.cache
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACSCJC.vbproj.CoreCompileInputs.cache
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACSCJC.dll
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACSCJC.xml
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Staging 6\ACSCJC.pdb
+C:\Program Files\Aptify 6.0 - Staging\ACSCJC.dll
+C:\Program Files\Aptify 6.0 - Staging\ACSCJC.pdb
+C:\Program Files\Aptify 6.0 - Staging\ACSCJC.xml

@@ -1,0 +1,12 @@
+C:\Program Files\Aptify 5.0 - DBTest\ACSCJC.dll
+C:\Program Files\Aptify 5.0 - DBTest\ACSCJC.pdb
+C:\Program Files\Aptify 5.0 - DBTest\ACSCJC.xml
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACS.Resources.resources
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACSCJC.vbproj.GenerateResource.cache
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACSCJC.vbproj.CoreCompileInputs.cache
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACSCJC.dll
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACSCJC.xml
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACSCJC.pdb
+C:\Program Files\Aptify 5.0 - DBTest\ACSCJC.dll.config
+C:\Program Files\Aptify 5.0 - DBTest\app.config
+C:\Code VB\ACSCJCv2\CJC\obj\Aptify Test\ACSCJC.vbprojAssemblyReference.cache
